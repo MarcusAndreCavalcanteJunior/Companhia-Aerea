@@ -27,6 +27,7 @@ e assim desativamos a duplicação de regras dessa forma*/
                 aviaoLatam.calcularAssentosDisponiveis());
     }
 }
+
 /*Aprendi que os étodos de instancia podem tbm alterar as variaveis
 da própria innstaância que esse metodo esta sendo rodado.*/
 
