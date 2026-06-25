@@ -28,6 +28,6 @@ e assim desativamos a duplicação de regras dessa forma*/
     }
 }
 
-/*Aprendi que os étodos de instancia podem tbm alterar as variaveis
+/*Aprendi que os métodos de instância podem tbm alterar as variaveis
 da própria innstaância que esse metodo esta sendo rodado.*/
 
